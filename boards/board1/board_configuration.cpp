@@ -1,5 +1,6 @@
 #define EFI_TACTICAL_TRANSMISSION true
 #define EFI_TACTICAL_KNOCK true
+#define EFI_TCU true
 
 #include "pch.h"
 #include "board_overrides.h"
